@@ -7,5 +7,5 @@ Session-only shortcuts for Windows 10/11. No installation, admin access, or star
 Open PowerShell and use this command (replace `USERNAME` first):
 
 ```powershell
-irm https://raw.githubusercontent.com/USERNAME/ahk-shortcuts/main/launch.ps1 | iex
+irm https://raw.githubusercontent.com/Seidkhan-Yusupov/ahk-shortcuts/main/launch.ps1 | iex
 ```
